@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638523852882",
+    "firebase_url": "https://ticktrip-2bcbd-default-rtdb.firebaseio.com",
+    "project_id": "ticktrip-2bcbd",
+    "storage_bucket": "ticktrip-2bcbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638523852882:android:cf07c300f5dcfd1ff1f78b",
+        "android_client_info": {
+          "package_name": "com.example.ticktrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638523852882-bdjdjglrs037l0pqk7inn97aumnc6e1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticktrip",
+            "certificate_hash": "63d2641cc74c14633acd58e54257e8f079868a3b"
+          }
+        },
+        {
+          "client_id": "638523852882-lmd17sb8nbi2q42kioa262k4sh7kdvk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticktrip",
+            "certificate_hash": "0926dffd794fe91edcb1ad0494a9f4d343a9e494"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttmsesFpfR8RouGXxwzhHPLtKwlnf8Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
